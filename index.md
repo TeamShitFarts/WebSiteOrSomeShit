@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pokemon Joel Version
 
 You can use the [editor on GitHub](https://github.com/TeamShitFarts/WebSiteOrSomeShit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
