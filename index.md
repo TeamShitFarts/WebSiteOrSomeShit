@@ -4,10 +4,16 @@ layout: default
 # Pokemon: Joel Version
 ## What is pokemon joel version?
 
- <p align="center">Pokemon Joel Version is a rom hacked started by <a href= "https://twitter.com/LazyGenGamers"> chowder908<a/> back in mid 2021 and later expanded into a group project 
+ <p align="center">Pokemon Joel Version is a rom hacked started by</p><p align="center"><a href= "https://twitter.com/LazyGenGamers"> chowder908<a/></p><p align="center">back in mid 2021 and later expanded into a group project 
  with others listed [here](./another-page.html).</p>
 
-![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)
+ <p align="center">
+  <img 
+    width="480"
+    height="320"
+    src="/docs/assets/pokeemerald-0.png"
+  >
+</p>
 
 ### Content
 The rom hack has tons of content such as
