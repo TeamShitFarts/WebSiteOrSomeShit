@@ -2,7 +2,7 @@
 layout: default
 ---
 # Pokemon: Joel Version
-# What is pokemon joel version?
+## What is pokemon joel version?
 
 Pokemon Joel Version is a rom hacked started by <a href= "https://twitter.com/LazyGenGamers"> chowder908<a/> back in mid 2021 and later expanded into a group project 
 with others listed [here](./another-page.html).
@@ -12,6 +12,7 @@ with others listed [here](./another-page.html).
 ## Content
 The rom hack has tons of content such as
   * Custom Trainers
+ 
 | Joshi        | David Draiman     |
 |:-------------|:------------------|
 |![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)|![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)|
