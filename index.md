@@ -11,7 +11,7 @@ layout: default
   <img 
     width="480"
     height="320"
-    src="/docs/assets/pokeemerald-0.png"
+    src="https://raw.githubusercontent.com/TeamShitFarts/WebSiteOrSomeShit/gh-pages/docs/assets/pokeemerald-0.png"
   >
 </p>
 
