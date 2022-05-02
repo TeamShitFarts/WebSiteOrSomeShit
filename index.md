@@ -20,7 +20,11 @@ The rom hack has tons of content such as
 |               | Oh, ah, ah, ah, ah |
 |               | oh, oh, oh, oh, oh, oh|
 
-
+  * Custom Pokemon
+| Fren |
+|![Haha PeePeePooPoo](/docs/assets/pokeemerald-1.png)|
+|Violencia|
+ 
 
 ### Header 3
 
