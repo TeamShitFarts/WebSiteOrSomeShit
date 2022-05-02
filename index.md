@@ -22,6 +22,7 @@ The rom hack has tons of content such as
 
   * Custom Pokemon
 | Fren |
+|:-----|
 |![Haha PeePeePooPoo](/docs/assets/pokeemerald-1.png)|
 |Violencia|
  
