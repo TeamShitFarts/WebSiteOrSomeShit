@@ -9,15 +9,13 @@ with others listed [here](./another-page.html).
 
 ![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)
 
-There should be whitespace between paragraphs.
+## Content
+The rom hack has tons of content such as
+  * Custom Trainers
+| Joshi        | David Draiman     |
+|:-------------|:------------------|
+|![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)|![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)|
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
