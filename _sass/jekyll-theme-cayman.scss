@@ -109,19 +109,19 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: "/assets/unknown.png"
+  background-image: url(https://i.imgur.com/zQZ2jL7.png);
 
-//  @include large {
-//    padding: 5rem 6rem;
-//  }
+  @include large {
+    padding: 5rem 6rem;
+  }
 
-//  @include medium {
-//    padding: 3rem 4rem;
-//  }
+  @include medium {
+    padding: 3rem 4rem;
+  }
 
-//  @include small {
-//    padding: 2rem 1rem;
-//  }
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
 
 .project-name {
