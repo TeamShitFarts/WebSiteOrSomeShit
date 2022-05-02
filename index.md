@@ -4,12 +4,12 @@ layout: default
 # Pokemon: Joel Version
 ## What is pokemon joel version?
 
-<center>Pokemon Joel Version is a rom hacked started by <a href= "https://twitter.com/LazyGenGamers"> chowder908<a/> back in mid 2021 and later expanded into a group project 
-with others listed [here](./another-page.html).</center>
+<div style="text-align:center">Pokemon Joel Version is a rom hacked started by <a href= "https://twitter.com/LazyGenGamers"> chowder908<a/> back in mid 2021 and later expanded into a group project 
+ with others listed [here](./another-page.html).</div>
 
 ![Haha PeePeePooPoo](/docs/assets/pokeemerald-0.png)
 
-## Content
+### Content
 The rom hack has tons of content such as
   * Custom Trainers
  
@@ -28,7 +28,7 @@ The rom hack has tons of content such as
 | Violencia |
  
 
-### Header 3
+#### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -45,19 +45,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+##### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+###### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+####### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
