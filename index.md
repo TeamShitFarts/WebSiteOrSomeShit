@@ -16,7 +16,9 @@ The rom hack has tons of content such as
 | Joshi        | David Draiman     |
 |:-------------|:------------------|
 |![Haha PeePeePooPoo](/docs/assets/pokeemerald-5.png)|![Haha PeePeePooPoo](/docs/assets/pokeemerald-6.png)|
-|SeeS          |Oh, ah, ah, ah, ah Oh, ah, ah, ah, ah oh, oh, oh, oh, oh, oh|
+|SeeS          |Oh, ah, ah, ah, ah 
+                Oh, ah, ah, ah, ah 
+                oh, oh, oh, oh, oh, oh|
 
 
 
