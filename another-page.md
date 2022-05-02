@@ -4,8 +4,8 @@ title: Development Team
 description: Devs of Pokemon: Joel
 ---
 
-## Welcome to another page
+## Credits
 
-<a>https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif</a>
+![Monkey do the funny](/docs/assets/spike-monkey-typing.gif)
 
 [back](./)
