@@ -1,0 +1,96 @@
+
+html{
+    overflow-y: scroll;
+    height: 100%;
+
+}
+body {
+    font-family: "Lato", sans-serif;
+    background-image: url(bg.png);
+    height: 100%;
+    cursor: url(fren.cur), auto;
+}
+
+.sidenav {
+    width: 130px;
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #50AA50;
+    padding: 8px 0;
+    margin-top: 250px;
+    border-radius: 20px;
+    border: 2px solid #005000
+
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 11px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+
+}
+
+
+.sidenav img{
+    width: 100px
+}
+
+
+
+
+.main{
+    width: 1300px;
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    background: #50AA50;
+    padding: 8px 0;
+    margin-top: 250px;
+    margin-left: 140px;
+    border-radius: 20px;
+    border: 2px solid #005000;
+    padding: 8px 8px 6px 11px;
+    cursor: url(bg.png) auto;
+    
+}
+
+.main h1 {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+.main p{
+    text-align: center;
+}
+
+
+.logo img{
+    width: 400px
+}
+
+div.gallery {
+  border: 1px solid #ccc;
+  float: left;
+  width: 300px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 300px;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
