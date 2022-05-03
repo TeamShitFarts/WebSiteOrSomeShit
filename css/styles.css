@@ -109,3 +109,21 @@ div.desc {
     margin-left: 400px;
 }
 
+.wdt{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.credits img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px
+}
+.credits h2{
+    text-align: center;
+}
+
