@@ -74,15 +74,15 @@ body {
 }
 
 div.gallery {
-  border: 1px solid #ccc;
-  margin-left: auto;
-    margin-right: auto;
-    float:right;
-  width: 300px;
+    border: 10.6px solid #202020;
+    display: inline-block;
+    width: 300px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+        position: relative;
+    top: -5px;
+
 }
 
 div.gallery img {
@@ -90,13 +90,22 @@ div.gallery img {
   height: auto;
 }
 
+div.gallery img:hover {
+
+}
+
 div.desc {
-  padding: 15px;
+  padding: 16px;
   text-align: center;
+    background: #005060;
+    color: aliceblue
 }
 
 .gal{
     margin: auto;
 }
 
+.gitlogo img{
+    margin-left: 400px;
+}
 
