@@ -1,5 +1,5 @@
 title: Pokemon Joel Version
-description: Pokemon Joel is a rom hack based on Pokemon Emerald using the <a href="https://github.com/pret/pokeemerald">pret.</a>
+description: Pokemon Joel is a rom hack based on Pokemon Emerald using the <a href="https://github.com/pret/pokeemerald">pret</a> decompilation project of Emerald.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman 
