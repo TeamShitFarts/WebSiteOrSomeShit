@@ -75,7 +75,9 @@ body {
 
 div.gallery {
   border: 1px solid #ccc;
-  float: left;
+  margin-left: auto;
+    margin-right: auto;
+    float:right;
   width: 300px;
 }
 
@@ -91,6 +93,10 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+}
+
+.gal{
+    margin: auto;
 }
 
 
