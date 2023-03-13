@@ -4,6 +4,9 @@ html{
     height: 100%;
 
 }
+.turkypage{
+    background-image: url(bgt.png);
+}
 body {
     font-family: "Lato", sans-serif;
     background-image: url(bg.png);
@@ -64,13 +67,15 @@ body {
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 
+
 .main p{
     text-align: center;
 }
 
 
 .logo img{
-    width: 400px
+    width: 400px;
+    
 }
 
 div.gallery {
@@ -105,8 +110,14 @@ div.desc {
     margin: auto;
 }
 
-.gitlogo img{
+.gitlogo {
     margin-left: 400px;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #ab6330;
 }
 
 .wdt{
@@ -126,4 +137,70 @@ div.desc {
 .credits h2{
     text-align: center;
 }
+
+/* Turky page specific*/
+.sidenavt {
+    width: 130px;
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #d17c3f;
+    padding: 8px 0;
+    margin-top: 250px;
+    border-radius: 20px;
+    border: 2px solid #ab6330
+
+}
+
+.sidenavt a {
+  padding: 6px 8px 6px 11px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+
+}
+
+
+.sidenavt img{
+    width: 100px
+}
+
+
+
+
+.maint{
+    width: 1300px;
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    background: #d17c3f;
+    padding: 8px 0;
+    margin-top: 250px;
+    margin-left: 140px;
+    border-radius: 20px;
+    border: 2px solid #ab6330;
+    padding: 8px 8px 6px 11px;
+    cursor: url(bg.png) auto;
+    
+}
+
+.maint h1 {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+.maint h3 {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+.maint p{
+    text-align: center;
+}
+
+
+
 
